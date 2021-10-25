@@ -51,5 +51,7 @@ API
 Training
 Blog
 About
-
+test
+entered
+info
 
